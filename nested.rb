@@ -58,6 +58,8 @@ def dennis_ritchies_language
         :languages => ["C"]
       }
     }
+    rich = programmer_hash[:dennis_ritchie][:known_for]
+    rich
 
 end
 
