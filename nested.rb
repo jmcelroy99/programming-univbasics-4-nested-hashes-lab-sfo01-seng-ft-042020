@@ -126,7 +126,7 @@ def adding_to_dennis
         :languages => ["COBOL", "FORTRAN"]
       },
       :alan_kay => {
-        :known_for => "Object Orientation",
+        :known_for => "GUI",
         :languages => ["Smalltalk", "LISP"]
       },
       :dennis_ritchie => {
